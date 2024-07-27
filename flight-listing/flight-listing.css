@@ -1,0 +1,101 @@
+body {
+    background: url(images/stars-bg.png) no-repeat top center;
+    font-family: "Montserrat", sans-serif;
+}
+
+.flight-list-main {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 16px;
+    border: 1px solid;
+    border-radius: 8px;
+}
+
+.flight-list-card {
+    border-bottom: 1px solid;
+}
+
+.flight-list-card:last-child {
+    border-bottom: none;
+}
+
+.flight-list-card-top {
+    display: flex;
+    min-height: 42px;
+    align-items: center;
+    justify-content: center;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    padding-right: 72px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    padding-left: 15px;
+    position: relative;
+}
+
+.flight-list-card-inner-blocks-first {
+    width: 68px;
+}
+
+.flight-list-card-inner-blocks-first-logo {
+    height: 35px;
+    width: 35px;
+    background-position: center;
+    background-size: contain;
+}
+
+.flight-list-card-bottom {
+    border-top: 1px solid;
+    /* display: block !important; */
+    grid-template-columns: 68px 28px minmax(0, 1fr) minmax(0, 280px);
+    grid-template-rows: auto;
+    padding-left: 24px;
+}
+
+.flight-list-card-inner-blocks-second {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 calc(35% - 32px);
+    flex: 0 0 calc(35% - 32px);
+}
+
+
+.flight-list-card-inner-blocks-third {
+    -webkit-box-flex: 4;
+    -webkit-flex: 4;
+    flex: 4;
+}
+
+.flight-list-card-inner-blocks-fourth {
+    -webkit-box-flex: 4;
+    -webkit-flex: 4;
+    flex: 4;
+}
+
+.flight-list-card-inner-blocks-fifth {
+    -webkit-box-flex: 5;
+    -webkit-flex: 5;
+    flex: 5;
+}
+
+.flight-list-card-inner-blocks-sixth {
+    -webkit-box-flex: 4;
+    -webkit-flex: 4;
+    flex: 4;
+}
+
+.flight-list-card-arrow {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0 12px;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.flight-list-card-arrow svg {
+    fill: #ffffff;
+}
