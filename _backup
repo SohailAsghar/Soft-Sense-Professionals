@@ -1,0 +1,103 @@
+<!-- <div class="container">
+  <ul class="flight-list-main">
+    <li class="flight-list-card">
+      <div class="flight-list-card-top">
+        <div class="flight-list-card-inner-blocks flight-list-card-inner-blocks-first">
+          <div class="flight-list-card-inner-blocks-first-logo" style="
+              background-image: url(https://www.gstatic.com/flights/airline_logos/70px/dark/PC.png);
+              ">
+          </div>
+        </div>
+        <div class="flight-list-card-inner-blocks flight-list-card-inner-blocks-second">
+          <div class="zxVSec YMlIz tPgKwe ogfYpf">
+            <span class="mv1WYe"
+              aria-label="Leaves Bahrain International Airport at 2:15 AM on Monday, August 12 and arrives at London Stansted Airport at 10:55 AM on Monday, August 12.">
+              <span jsaction="wGOFk:pCNdcd;AHEEwb:QsRKXb;DJL8Fd:pCNdcd;z0rlDb:QsRKXb" jsshadow="" jscontroller="E0AZj"
+                data-position="1" data-caret-position="2">
+                <span jsslot="">
+                  <span jscontroller="cNtv4b"
+                    jsaction="focus:AHmuwe; blur:O22p3e; mouseenter:tfO1Yc; mouseleave:JywGue; touchstart:p6p2H; touchend:yfqBxc"
+                    aria-describedby="gEvJbfc21301" tabindex="-1" aria-label="Departure time: 2:15 AM.">
+                    <span aria-label="Departure time: 2:15 AM." role="text">2:15 AM</span></span></span>
+                <div jsname="bN97Pc" id="gEvJbfc21301" __is_owner="false" style="display: none;"><span
+                    class="eoY5cb">2:15 AM&nbsp;on&nbsp;Mon, Aug 12</span></div>
+              </span>&nbsp;–&nbsp;<span jsaction="wGOFk:pCNdcd;AHEEwb:QsRKXb;DJL8Fd:pCNdcd;z0rlDb:QsRKXb" jsshadow=""
+                jscontroller="E0AZj" data-position="1" data-caret-position="2"><span jsslot=""><span
+                    jscontroller="cNtv4b"
+                    jsaction="focus:AHmuwe; blur:O22p3e; mouseenter:tfO1Yc; mouseleave:JywGue; touchstart:p6p2H; touchend:yfqBxc"
+                    aria-describedby="gEvJbfc21302" tabindex="-1" aria-label="Arrival time: 10:55 AM."><span
+                      aria-label="Arrival time: 10:55 AM." role="text">10:55 AM</span></span></span>
+                <div jsname="bN97Pc" id="gEvJbfc21302" style="display: none;"><span class="eoY5cb">10:55
+                    AM&nbsp;on&nbsp;Mon, Aug 12</span></div>
+              </span></span>
+          </div>
+          <div class="sSHqwe tPgKwe ogfYpf"><span>Pegasus</span></div>
+        </div>
+        <div class="flight-list-card-inner-blocks flight-list-card-inner-blocks-third">
+          <div class="gvkrdb AdWm1c tPgKwe ogfYpf" aria-label="Total duration 10 hr 40 min.">10 hr 40 min</div>
+          <span aria-hidden="true" class="d-flex">
+            <div class="QylvBf"><span jsaction="wGOFk:pCNdcd;AHEEwb:QsRKXb;DJL8Fd:pCNdcd;z0rlDb:QsRKXb" jsshadow=""
+                jscontroller="E0AZj" data-position="2" data-caret-position="2" data-max-width="400px"><span
+                  jsslot=""><span jscontroller="cNtv4b"
+                    jsaction="focus:AHmuwe; blur:O22p3e; mouseenter:tfO1Yc; mouseleave:JywGue; touchstart:p6p2H; touchend:yfqBxc"
+                    aria-describedby="gEvJbfc21303" tabindex="-1" aria-label="">BAH</span></span>
+                <div jsname="bN97Pc" id="gEvJbfc21303" style="display: none;"><span class="eoY5cb">Bahrain
+                    International Airport</span></div>
+              </span></div>–<div class="QylvBf"><span jsaction="wGOFk:pCNdcd;AHEEwb:QsRKXb;DJL8Fd:pCNdcd;z0rlDb:QsRKXb"
+                jsshadow="" jscontroller="E0AZj" data-position="2" data-caret-position="2" data-max-width="400px"><span
+                  jsslot=""><span jscontroller="cNtv4b"
+                    jsaction="focus:AHmuwe; blur:O22p3e; mouseenter:tfO1Yc; mouseleave:JywGue; touchstart:p6p2H; touchend:yfqBxc"
+                    aria-describedby="gEvJbfc21304" tabindex="-1" aria-label="">STN</span></span>
+                <div jsname="bN97Pc" id="gEvJbfc21304" style="display: none;"><span class="eoY5cb">London Stansted
+                    Airport</span></div>
+              </span></div>
+          </span>
+        </div>
+        <div class="flight-list-card-inner-blocks flight-list-card-inner-blocks-fourth">
+          <div class="EfT7Ae AdWm1c tPgKwe"><span class="ogfYpf" aria-label="1 stop flight.">1 stop</span></div>
+          <div class="sSHqwe tPgKwe ogfYpf"
+            aria-label="Layover (1 of 1) is a 2 hr 35 min layover at Sabiha Gökçen International Airport in İstanbul.">
+            2 hr 35 min <span jsaction="wGOFk:pCNdcd;AHEEwb:QsRKXb;DJL8Fd:pCNdcd;z0rlDb:QsRKXb" jsshadow=""
+              jscontroller="E0AZj" data-position="2" data-caret-position="2" data-max-width="400px"><span
+                jsslot=""><span jscontroller="cNtv4b"
+                  jsaction="focus:AHmuwe; blur:O22p3e; mouseenter:tfO1Yc; mouseleave:JywGue; touchstart:p6p2H; touchend:yfqBxc"
+                  aria-describedby="gEvJbfc21305" tabindex="-1" aria-label="">SAW</span></span>
+              <div jsname="bN97Pc" id="gEvJbfc21305" style="display: none;"><span class="eoY5cb">Sabiha Gökçen
+                  International Airport</span></div>
+            </span></div>
+        </div>
+        <div class="flight-list-card-inner-blocks flight-list-card-inner-blocks-fifth">
+          <div jscontroller="NiHijf" class="NZRfve" data-relativeemissions="1" data-co2currentflight="362000"
+            data-co2typical="523000" data-co2savings="-161000" data-passengers="1" data-percentagediff="-31"
+            data-seatingclass="1" data-relativeemissionsknown=""
+            data-travelimpactmodelwebsiteurl="https://www.travelimpactmodel.org/lookup/flight?itinerary=BAH-SAW-PC-825-20240812,SAW-STN-PC-1169-20240812"
+            jsname="Prr8lb">
+            <div class="O7CXue" aria-hidden="true">
+              <div class="AdWm1c lc3qH ogfYpf  PtgtFe">362 kg CO2e</div>
+            </div>
+            <div class="RioxB GE8dBb">
+              <div class="N6PNV ogfYpf ZyBjjc juCwOd f84tcd" aria-hidden="true">-31% emissions</div>
+            </div>
+          </div>
+        </div>
+        <div class="flight-list-card-inner-blocks flight-list-card-inner-blocks-sixith">
+          <div class="BVAVmf I11szd POX3ye">
+
+            <div class="YMlIz FpEdX jLMuyc"><span
+                data-gs="CjRIZTZyOTBlOUJtWkVBSEU1d3dCRy0tLS0tLS0td2VicWQxNUFBQUFBR2FqekVFS2ZEY3VBEgxQQzgyNXxQQzExNjkaCwjhlRAQAxoDQkhEOBxwnKUE"
+                aria-label="265 Bahraini dinars" role="text">BHD&nbsp;265</span></div>
+          </div>
+          <div class="N872Rd sSHqwe I11szd POX3ye">round trip</div>
+        </div>
+        <div class="flight-list-card-arrow" onclick="flightDetails(this, 'green' )">
+          <svg focusable="false" width="24" height="24" viewBox="0 0 24 24" class="SadNne NMm5M">
+            <path d="M12 16.41l-6.71-6.7 1.42-1.42 5.29 5.3 5.29-5.3 1.42 1.42z"></path>
+          </svg>
+        </div>
+      </div>
+      <div class="flight-list-card-bottom d-none">
+        sasdadas
+      </div>
+    </li>
+  </ul>
+</div> -->

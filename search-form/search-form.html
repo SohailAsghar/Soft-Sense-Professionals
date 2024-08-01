@@ -1,36 +1,38 @@
 <link rel="stylesheet" href="/search-form/search-form.css">
 <div class="container">
-  <div class="p-5 mb-4 bg-body-tertiary rounded-3">
-    <div class="container-fluid py-5">
-      <div class="btn-group">
-        <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
-            aria-expanded="false">
-            Round Trip
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">Round Trip</a></li>
-            <li><a class="dropdown-item" href="#">One Way</a></li>
-            <li><a class="dropdown-item" href="#">Multi City</a></li>
-          </ul>
-        </div>
+  <div class="p-5 mb-4 bg-dark rounded-3">
+    <div class="container-fluid py-5 d-flex flex-column gap-3">
+      <div class="d-flex justify-content-start gap-2">
+        <form>
+          <fieldset class="d-flex gap-2">
+            <select class="form-select" id="exampleSelect1">
+              <option>One Way</option>
+              <option>Round Trip</option>
+              <option>Multi City</option>
+            </select>
+            <select class="form-select" id="exampleSelect1">
+              <option>Economy</option>
+              <option>Premium Economy</option>
+              <option>First</option>
+            </select>
+          </fieldset>
+        </form>
+
+
       </div>
-      <div class="btn-group">
-        <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
-            aria-expanded="false">
-            Economy
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">Economy</a></li>
-            <li><a class="dropdown-item" href="#">Premium Economy</a></li>
-            <li><a class="dropdown-item" href="#">First</a></li>
-          </ul>
+      <form class="d-flex gap-3">
+        <div class="form-floating flex-fill">
+          <input type="text" class="form-control" id="floatingInput" placeholder="BAH">
+          <label for="floatingInput">From</label>
         </div>
-      </div>
+        <div class="form-floating flex-fill">
+          <input type="text" class="form-control" id="floatingInput" placeholder="LHE">
+          <label for="floatingInput">To</label>
+        </div>
+      </form>
+      <button type="button" class="btn btn-primary btn-lg" onclick="moveTo('flight-listing/flight-listing')">
+        Search
+      </button>
     </div>
-    <button onclick="moveTo('flight-listing/flight-listing')">
-      Search
-    </button>
   </div>
 </div>
